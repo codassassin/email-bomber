@@ -22,6 +22,9 @@ $ python email_bomber.py
 ## Example run..
 ![email_bomber](https://user-images.githubusercontent.com/55107082/127192599-b89fd850-83e4-41a1-a9c6-4b8ca208736d.png)
 
+## Example output...
+![bomber_result](https://user-images.githubusercontent.com/55107082/127193384-51371fdd-1795-4436-89f3-365f93db57df.png)
+
 
 ### Disclaimer !!
 
