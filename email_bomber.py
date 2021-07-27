@@ -61,7 +61,7 @@ class EmailBomber:
                 self.amount = int(250)
             else:
                 self.amount = int(input(bColors.GREEN + '[:] Choose a CUSTOM amount > '))
-            print(bColors.GREEN + f'[+] You have selected BOMB mode: {self.mode} and {self.amount} emails')
+            print(bColors.GREEN + f'[+] You have selected BOMB mode {self.mode} and {self.amount} emails')
 
         except Exception as e:
             print(bColors.RED + f'[-] ERROR: {e}')
@@ -114,7 +114,7 @@ class EmailBomber:
             self.s.sendmail(self.fromAddr, self.target, self.message)
             self.count += 1
             # print(bColors.YELLOW + f'[+] BOMB: {self.count}')
-            sys.stdout.write(bColors.YELLOW + '\r' + f'[+] BOMBED {self.count} bombs ' + ('.' * self.count))
+            sys.stdout.write(bColors.YELLOW + '\r' + f'[+] BOMBED {self.count} emails ' + ('.' * self.count))
             # time.sleep(0.5)
 
         except Exception as e:
