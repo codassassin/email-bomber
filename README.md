@@ -4,11 +4,11 @@ This is a Email Bomber made using python.
 ## How to use ?
 * First:
 ```
-$ git clone https://github.com/codassassin/email-bomber.git
+git clone https://github.com/codassassin/email-bomber.git
 ```
 * Run the email_bomber.py file:
 ```
-$ python email_bomber.py
+python email_bomber.py
 ```
 * Enter the target address.
 * Enter the bomb mode.
