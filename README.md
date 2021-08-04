@@ -17,7 +17,7 @@ python email_bomber.py
   * 3 for 250 email bombs.
   * 4 for custom email bombs.
 * Then enter the number of bombs (for mode 4 i.e custom email bombs).
-* Set up the attacker email instructed.
+* Set up the attacker email as instructed.
 * Then the attack will start.
 ## Example run..
 ![email_bomber](https://user-images.githubusercontent.com/55107082/127192599-b89fd850-83e4-41a1-a9c6-4b8ca208736d.png)
