@@ -1,7 +1,7 @@
 # email-bomber
 This is a Email Bomber made using python.
 
-# latest version available at https://github.com/codassassin/email-bomber-v2.0
+## latest version available at https://github.com/codassassin/email-bomber-v2.0
 
 ## How to use ?
 * First:
